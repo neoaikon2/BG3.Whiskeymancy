@@ -1,0 +1,5 @@
+new entry "MAG_DrunkenFist"
+type "PassiveData"
+data "DisplayName" "hb59da66fg20c0g4c7dg9e5cg8ced1d9b7738"
+data "Description" "ha37a994fg86dfg4b4bg909eg801afd58a25d"
+data "Boosts" "IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(1d8+WisdomModifier, Force);IF(not SavingThrow(Ability.Constitution, 10) and not StatusId('DRUNK')):SetStatusDuration(DRUNK, 5, ForceSet);"

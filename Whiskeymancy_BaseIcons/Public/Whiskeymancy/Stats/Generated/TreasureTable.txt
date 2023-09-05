@@ -1,14 +1,9 @@
-new treasuretable "DEN_Entrance_Trade"
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
 CanMerge 1
 new subtable "1,1"
 object category "I_WhiskeymancersRing",1,0,0,0,0,0,0,0
 
-new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_WhiskeymancersRing",1,0,0,0,0,0,0,0
-
-new treasuretable "HAV_HarperQuarterMaster"
+new treasuretable "LOW_SorcerousSundries_Magic_Trade"
 CanMerge 1
 new subtable "1,1"
 object category "I_WhiskeymancersRing",1,0,0,0,0,0,0,0
