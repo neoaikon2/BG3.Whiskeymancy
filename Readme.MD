@@ -1,7 +1,7 @@
 # Baldur's Gate 3 Whiskeymancy Mod  
   
 ## Put the ring on...become the Whiskeymancer...drink deep, in your destiny...  
-This mod adds the Whiskeymancers Ring and Gloves of Drunken Shenanigans to Baldur's Gate 3!  
+This mod adds the Whiskeymancers Attire to Baldur's Gate 3!  
 ## What's in the mod
 - Caskmaster's Visage  
 A stylish hood adorned with intricate whiskey-themed embroidery.  
@@ -12,15 +12,16 @@ Flowing robes made from a special, enchanted fabric that shimmers like a fine wh
 - Barrelbruiser Gauntlets  
 These gloves are adorned with miniature whiskey barrels on the knuckles.  
 -- **Drunkard's Gambit:** Your unarmed attacks deal an additional 1d8 force damage and have a chance of making you drunk
-- Fireside Treads
+- Fireside Treads  
 Sturdy boots with whiskey-colored leather and intricate whiskey cask motifs.
 -- **Warmth of the Cask:** Grants the wearer resistance to cold damage, as if they've been fortified by the warmth of a fine whiskey.
-- Mantle of Whiskey Wisps
+- Mantle of Whiskey Wisps  
 A cloak that shimmers like the ripples of whiskey in a glass.
 -- **Whiskey's Embrace:** When the wearer casts a spell related to fire or alcohol, the cloak billows dramatically, granting a +2 bonus to their spell save DC.
+- Amulet of the Whiskey Well  
 An amulet with a tiny, sparkling whiskey cask pendant.
 -- **Whiskey's Vitality:** Once per day, the wearer can conjure a small wellspring of whiskey that can be used to restore 1d8 hit points when consumed.
-- Whiskeymancer's Ring
+- Whiskeymancer's Ring  
 A gold ring adorned with intricate whiskey-themed engravings, it carries the faint, inviting scent of a fine bourbon.
 -- **Pitiful Rite of Whiskey:** Summon a FireWine barrel anywhere you can see within 18m.
 
