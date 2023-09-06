@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="0" />
+	<version major="4" minor="0" revision="9" build="326" />
 	<region id="Templates">
 		<node id="Templates">
-			<children> 
+			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="hd4786a66g31d8g4aaeg93e7gb1ffdf1ae1f5" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hc15d691cgef27g4f25gac7age526fcca92d3" version="1" />
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_I_Gold_A_1" />
+					<attribute id="MapKey" type="FixedString" value="a1e54beb-908b-4627-9a7d-e0365ab6a68d" />
+					<attribute id="Name" type="LSString" value="WHISKEY_CaskmastersVisage" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="681e3f74-2ad5-4d26-8d8e-52a7afe54725" />
-					<attribute id="Name" type="LSString" value="Whiskeymancers Ring" />
-					<attribute id="ParentTemplateId" type="FixedString" value="49b84359-6a28-460e-af98-4526c5fca6fd" />
-					<attribute id="Stats" type="FixedString" value="WhiskeymancersRing" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="36028797018963969" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d6c7172f-ac08-4be2-9bdf-cf38feae2bb3" />
+					<attribute id="VisualTemplate" type="FixedString" value="25293f6f-d4ee-e753-ddfc-2b9b021a0a0c" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="36ae3f7a-d368-e940-d991-41fd0536891b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h483f59bdg5278g4e5cga33fg9a0dfa2fa52b" version="2" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Monk_Magic_Hat_Magic" />
+					<attribute id="Stats" type="FixedString" value="WHISKEY_CaskmastersVisage" />
+					<attribute id="Description" type="TranslatedString" handle="hc2e6b32eg01e0g44a7gacdag11ba74e12ef5" version="1" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -44,7 +45,7 @@
 							</children>
 						</node>						
 					</children>
-				</node>					
+				</node>
 			</children>
 		</node>
 	</region>

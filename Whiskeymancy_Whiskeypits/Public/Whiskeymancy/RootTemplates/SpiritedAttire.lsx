@@ -1,20 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="0" />
+	<version major="4" minor="0" revision="9" build="329" />
 	<region id="Templates">
 		<node id="Templates">
-			<children> 
+			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="hd4786a66g31d8g4aaeg93e7gb1ffdf1ae1f5" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hc15d691cgef27g4f25gac7age526fcca92d3" version="1" />
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_I_Gold_A_1" />
+					<attribute id="MapKey" type="FixedString" value="15c8d70e-6b34-45fa-ae81-d3b638d0e224" />
+					<attribute id="Name" type="LSString" value="WHISKEY_SpiritedAttire" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="681e3f74-2ad5-4d26-8d8e-52a7afe54725" />
-					<attribute id="Name" type="LSString" value="Whiskeymancers Ring" />
-					<attribute id="ParentTemplateId" type="FixedString" value="49b84359-6a28-460e-af98-4526c5fca6fd" />
-					<attribute id="Stats" type="FixedString" value="WhiskeymancersRing" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="36028797018963969" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h51ba9624g9ce2g4a27gbe1fgd8184c71b352" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_RobeOfSummer" />
+					<attribute id="Stats" type="FixedString" value="WHISKEY_SpiritedAttire" />
+					<attribute id="Description" type="TranslatedString" handle="hb1f46b18g691dg412fg80e4g7c15f7bd4469" version="1" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -44,7 +46,7 @@
 							</children>
 						</node>						
 					</children>
-				</node>					
+				</node>
 			</children>
 		</node>
 	</region>

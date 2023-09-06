@@ -2,24 +2,30 @@
   
 ## Put the ring on...become the Whiskeymancer...drink deep, in your destiny...  
 This mod adds the Whiskeymancers Ring and Gloves of Drunken Shenanigans to Baldur's Gate 3!  
-## Whiskeymancers Ring  
-A simple gold ring, or is it? Wearing it Unlocks the cantrip The Pitiful Rite of Whiskey  
-### The Pitiful Rite of Whiskey  
-Evocation cantrip that allows you to spawn a FireWine barrel in a visible location within 18m  
-## Gloves of Drunken Shenanigans  
-A pair of gloves soaked in ale, it seeps and drips from every seam and stitch  
-### Passive: Drunken Fist  
-Passive ability unlocked by wearing the Gloves of Drunken Shenanigans, provides the following effects:  
-- Unarmed attacks deal 1d8 additional force damage  
-- Unarmed attacks have a chance to make you Drunk for 5 turns  
-### Where can I find these items?  
-Whiskeymancy is a forbidden art, shunned by good and evil aligned adventures alike due to the inherit danger and destructivity of whiskey based magic. There are only two locations where they can be found:  
-  
-1. Last Light Inn - Quartermaster Talli  
-Word has it that the people taking refuge at the Last Light Inn have found Whiskeymancy to be a steadfast and reliable bulwark against the creatures found within the Shadow-cursed Lands  
-2.Sorcerous Sundries - Shopkeep  
-Gale: Really? You'r expecting a description? IT'S SORCEROUS SUNDRIES FOR CRYING OUT LOUD! It's the premier source of magic artifacts, you won't find a more likely place to find information pertaining to 'forbidden' arts than here.  
-  
+## What's in the mod
+- Caskmaster's Visage  
+A stylish hood adorned with intricate whiskey-themed embroidery.  
+-- **Flame-Resistant Visage:** Grants advantage on saving throws against spells that involve fire
+- Spirited Attire  
+Flowing robes made from a special, enchanted fabric that shimmers like a fine whiskey.  
+-- **Charm of Conviviality:** Provides resistance to fire damage and grants advantage on Charisma (Persuasion) checks when attempting to negotiate over a drink
+- Barrelbruiser Gauntlets  
+These gloves are adorned with miniature whiskey barrels on the knuckles.  
+-- **Drunkard's Gambit:** Your unarmed attacks deal an additional 1d8 force damage and have a chance of making you drunk
+- Fireside Treads
+Sturdy boots with whiskey-colored leather and intricate whiskey cask motifs.
+-- **Warmth of the Cask:** Grants the wearer resistance to cold damage, as if they've been fortified by the warmth of a fine whiskey.
+- Mantle of Whiskey Wisps
+A cloak that shimmers like the ripples of whiskey in a glass.
+-- **Whiskey's Embrace:** When the wearer casts a spell related to fire or alcohol, the cloak billows dramatically, granting a +2 bonus to their spell save DC.
+An amulet with a tiny, sparkling whiskey cask pendant.
+-- **Whiskey's Vitality:** Once per day, the wearer can conjure a small wellspring of whiskey that can be used to restore 1d8 hit points when consumed.
+- Whiskeymancer's Ring
+A gold ring adorned with intricate whiskey-themed engravings, it carries the faint, inviting scent of a fine bourbon.
+-- **Pitiful Rite of Whiskey:** Summon a FireWine barrel anywhere you can see within 18m.
+
+## Where can I find these items?  
+Whiskeymancy is a forbidden art, shunned by good and evil aligned adventures alike due to the inherit danger and destructivity of whiskey based magic. Currently these items can be found with Arron in the Emerald Grove, but this is not the intended location since the Whiskeymancer's ring is rather OP when used correctly, so I really want this stuff to be available later on. That said, the full set runs about ~3.6k Gold so good luck getting it super early in the game  
 ## Installation  
 It's recommended to use [BG3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), you can find the latest release [HERE](https://github.com/LaughingLeader/BG3ModManager/releases).  
 1. Open BG3ModManager, and drag-and-drop the Zip file onto the window  
@@ -29,4 +35,5 @@ It's recommended to use [BG3 Mod Manager](https://github.com/LaughingLeader/BG3M
 2. File ➡ Export Order to Game (Ctrl+E)  
   
 ## ChangeLog  
+- v1.0.0.5 - Made this into a full set of Whiskeymancer attire, you're welcome Whiskeypits!  
 - v1.0.0.3 - Initial Commits  
